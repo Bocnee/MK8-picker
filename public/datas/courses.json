@@ -1,0 +1,770 @@
+[
+  {
+    "dlc": false,
+    "id": "cupMushroom",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219244&authkey=%21AHFNdaWOCOtYqaQ&width=106&height=106",
+    "name": "Coupe Champignon",
+    "courses": [
+      {
+        "game": "Mario Kart 8",
+        "id": "cupMushroom1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218934&authkey=%21AJt770_ovdQJJvo&width=382&height=261",
+        "name": "Champidrome"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupMushroom2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218935&authkey=%21AEY1aj4L1jLsVkE&width=384&height=262",
+        "name": "Parc Glougloop"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupMushroom3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218936&authkey=%21AGajDD-IESc2L-I&width=383&height=262",
+        "name": "Piste aux délices"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupMushroom4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218937&authkey=%21AGJSTVRE3ssnuUo&width=383&height=262",
+        "name": "Temple Thwomp"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupFlower",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219245&authkey=%21ANt0FGfQj_68tCg&width=106&height=106",
+    "name": "Coupe Fleur",
+    "courses": [
+      {
+        "game": "Mario Kart 8",
+        "id": "cupFlower1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218938&authkey=%21APQsz6gMUALzsTk&width=384&height=261",
+        "name": "Circuit Mario"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupFlower2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218939&authkey=%21ANv-fNBsUHmIQWE&width=384&height=263",
+        "name": "Promenade Toad"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupFlower3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218942&authkey=%21ALJjrpvUoQZDEvs&width=383&height=262",
+        "name": "Manoir trempé"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupFlower4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218941&authkey=%21ABHotJZt1FATKEs&width=384&height=261",
+        "name": "Cascades Maskass"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupStar",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219246&authkey=%21AFm2iCX4D6qTWkQ&width=106&height=106",
+    "name": "Coupe Étoile",
+    "courses": [
+      {
+        "game": "Mario Kart 8",
+        "id": "cupStar1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218940&authkey=%21ADYtjY8Ny-hyW3Q&width=383&height=261",
+        "name": "Aéroport Azur"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupStar2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218943&authkey=%21AEEfscG7v7BEsEk&width=384&height=261",
+        "name": "Lagon Tourbillon"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupStar3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218944&authkey=%21AFUHwOA1OGD9_mQ&width=384&height=261",
+        "name": "Club Mario"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupStar4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218945&authkey=%21ADdcys7E_iwvWo8&width=384&height=262",
+        "name": "Descente givrée"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupSpecial",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219247&authkey=%21AFo5sPyN2-22aV4&width=106&height=106",
+    "name": "Coupe Spéciale",
+    "courses": [
+      {
+        "game": "Mario Kart 8",
+        "id": "cupSpecial1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218946&authkey=%21ACnsIO9UFNmRz_o&width=381&height=262",
+        "name": "Voie céleste"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupSpecial2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218948&authkey=%21AOUzhFHV9VbNvFU&width=382&height=261",
+        "name": "Désert Toussec"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupSpecial3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218947&authkey=%21ALLGARp_XBlydn0&width=382&height=261",
+        "name": "Château de Bowser"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupSpecial4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218949&authkey=%21AEugcMUV06V_Nyg&width=384&height=263",
+        "name": "Route Arc-en-ciel"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupShell",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219248&authkey=%21AMG-srphGoMCvtQ&width=106&height=106",
+    "name": "Coupe Carapace",
+    "courses": [
+      {
+        "game": "Wii",
+        "id": "cupShell1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218950&authkey=%21AG86x-IdGR_NS80&width=382&height=262",
+        "name": "Prairie Meuh Meuh"
+      },
+      {
+        "game": "GBA",
+        "id": "cupShell2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218951&authkey=%21ADW_4JHHqwQpOvI&width=382&height=262",
+        "name": "Circuit Mario"
+      },
+      {
+        "game": "DS",
+        "id": "cupShell4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218952&authkey=%21ABqSFRO47q_Gn7o&width=383&height=262",
+        "name": "Plage Cheep Cheep"
+      },
+      {
+        "game": "N64",
+        "id": "cupShell3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218953&authkey=%21AMGq3pphP077a04&width=382&height=260",
+        "name": "Autoroute Toad"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupBanana",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219249&authkey=%21AGV0-CUjTxGYWYM&width=106&height=106",
+    "name": "Coupe Banane",
+    "courses": [
+      {
+        "game": "NGC",
+        "id": "cupBanana1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218954&authkey=%21AJV2o1d5mNyUFBU&width=384&height=261",
+        "name": "Désert Sec Sec"
+      },
+      {
+        "game": "SNES",
+        "id": "cupBanana2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218955&authkey=%21AJVLo5PB0y7bQkI&width=382&height=262",
+        "name": "Plaine Donut 3"
+      },
+      {
+        "game": "N64",
+        "id": "cupBanana3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218957&authkey=%21ACIT1oQa-uGSiEM&width=382&height=261",
+        "name": "Autodrome royal"
+      },
+      {
+        "game": "3DS",
+        "id": "cupBanana4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218956&authkey=%21AL659YgiP1aQYRE&width=381&height=262",
+        "name": "Forêt tropicale DK"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupLeaf",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219250&authkey=%21ADu4eEv2pb6VAA8&width=106&height=106",
+    "name": "Coupe",
+    "courses": [
+      {
+        "game": "DS",
+        "id": "cupLeaf1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218958&authkey=%21AEli8BF5Nf3p9m0&width=382&height=263",
+        "name": "Stade Wario"
+      },
+      {
+        "game": "NGC",
+        "id": "cupLeaf2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218960&authkey=%21AIllSMRTaCIInZg&width=382&height=260",
+        "name": "Royaume Sorbet"
+      },
+      {
+        "game": "3DS",
+        "id": "cupLeaf3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218959&authkey=%21AI_eYte4bgGHFsA&width=382&height=262",
+        "name": "Piste musicale"
+      },
+      {
+        "game": "N64",
+        "id": "cupLeaf4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218961&authkey=%21AF5E83Xnc3tJKYA&width=382&height=260",
+        "name": "Vallée Yoshi"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupLightening",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219252&authkey=%21AP0n46x7gnxHVxk&width=106&height=106",
+    "name": "Coupe Éclair",
+    "courses": [
+      {
+        "game": "DS",
+        "id": "cupLightening1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218962&authkey=%21AOm7UeZh4V8aV0w&width=382&height=261",
+        "name": "Horloge Tic-Tac"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupLightening2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218963&authkey=%21AGXta7ZTHEfcN9A&width=382&height=261",
+        "name": "Égout Piranha"
+      },
+      {
+        "game": "Wii",
+        "id": "cupLightening3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218965&authkey=%21AMwr9AplDG549pI&width=382&height=261",
+        "name": "Volcan grondant"
+      },
+      {
+        "game": "N64",
+        "id": "cupLightening4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218964&authkey=%21ABlQMVdGBkffemo&width=381&height=262",
+        "name": "Route Arc-en-ciel"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupEgg",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219251&authkey=%21AM1bigs9wC-4r2Q&width=106&height=106",
+    "name": "Coupe Œuf",
+    "courses": [
+      {
+        "game": "NGC",
+        "id": "cupEgg1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218966&authkey=%21AKBfuZmNcADQ88s&width=383&height=262",
+        "name": "Circuit Yoshi"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupEgg2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218967&authkey=%21APo-pkDLQtbYN8Q&width=381&height=261",
+        "name": "Arène d'Excitebike"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupEgg3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218968&authkey=%21AJneu6UCgrKKoH4&width=382&height=262",
+        "name": "Route du dragon"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupEgg4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218969&authkey=%21ANZdNE-p_nQeM0w&width=382&height=262",
+        "name": "Mute City"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupCrossing",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219253&authkey=%21AGJEURrK9ZJm89I&width=106&height=106",
+    "name": "Coupe",
+    "courses": [
+      {
+        "game": "Wii",
+        "id": "cupCrossing1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218972&authkey=%21AIBK0f7RtOUCmh8&width=382&height=261",
+        "name": "Mine Wario"
+      },
+      {
+        "game": "SNES",
+        "id": "cupCrossing2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218971&authkey=%21ACJli6B8RevD9os&width=382&height=261",
+        "name": "Route Arc-en-ciel"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupCrossing3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218970&authkey=%21AHyMewBVcy24KIM&width=383&height=262",
+        "name": "Station Glagla"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupCrossing4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218974&authkey=%21AHHQDzQhqxWpS1c&width=381&height=261",
+        "name": "Circuit d'Hyrule"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupTriforce",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219256&authkey=%21AOxK5dRy3oCPE4E&width=106&height=106",
+    "name": "Coupe Triforce",
+    "courses": [
+      {
+        "game": "NGC",
+        "id": "cupTriforce1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218973&authkey=%21AOcewda6AD10rTw&width=381&height=261",
+        "name": "Parc Baby"
+      },
+      {
+        "game": "GBA",
+        "id": "cupTriforce2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218975&authkey=%21AOa07mtqwayCAfg&width=382&height=262",
+        "name": "Pays Fromage"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupTriforce3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218977&authkey=%21AFgpKoiX39Il9S4&width=382&height=261",
+        "name": "Passage Feuillage"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupTriforce4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218976&authkey=%21AL_yqc5xWIz2jhE&width=383&height=261",
+        "name": "Animal Crossing"
+      }
+    ]
+  },
+  {
+    "dlc": false,
+    "id": "cupBell",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219254&authkey=%21AAqMEM3bhTBgofc&width=106&height=106",
+    "name": "Coupe Clochette",
+    "courses": [
+      {
+        "game": "3DS",
+        "id": "cupBell1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218978&authkey=%21AAqSXMVoEcP-Xvg&width=383&height=262",
+        "name": "Koopapolis"
+      },
+      {
+        "game": "GBA",
+        "id": "cupBell2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218980&authkey=%21AHnLHpaQBvGccyI&width=382&height=261",
+        "name": "Route Ruban"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupBell3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218979&authkey=%21AOFCWEO9aynvR4M&width=382&height=261",
+        "name": "Métro Turbo"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupBell4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218981&authkey=%21AGu7NzntZi8r4HY&width=382&height=262",
+        "name": "Big Blue"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupGDash",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219255&authkey=%21AIob0PTdKKKKvzA&width=120&height=120",
+    "name": "Coupe Turbo Dorée",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupGDash1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218984&authkey=%21AAyUxZH3VR20b3E&width=382&height=261",
+        "name": "Promenade à Paris"
+      },
+      {
+        "game": "3DS",
+        "id": "cupGDash2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218982&authkey=%21APkotZrWNu8W3ms&width=383&height=261",
+        "name": "Circuit Toad"
+      },
+      {
+        "game": "N64",
+        "id": "cupGDash3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218983&authkey=%21AGFfxYupJW8KIfA&width=382&height=262",
+        "name": "Montagne Choco"
+      },
+      {
+        "game": "Wii",
+        "id": "cupGDash4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218985&authkey=%21ADr4pCh4vSmF7Oc&width=382&height=262",
+        "name": "Supermarché Coco"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupLCat",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219258&authkey=%21AIwmKFFXMGmeVEU&width=120&height=120",
+    "name": "Coupe Maneki-Neko",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupLCat1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218986&authkey=%21ADWk2_taa7CTAW8&width=382&height=263",
+        "name": "Traversée de Tokyo"
+      },
+      {
+        "game": "DS",
+        "id": "cupLCat2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218987&authkey=%21AJOB_yLvwZqBUvw&width=382&height=261",
+        "name": "Corniche Champignon"
+      },
+      {
+        "game": "GBA",
+        "id": "cupLCat3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218988&authkey=%21AILD7KYpgu_G6gQ&width=382&height=262",
+        "name": "Jardin volant"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupLCat4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218989&authkey=%21AOdvUvtx0YGEfbU&width=380&height=261",
+        "name": "Dojo ninja"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupTurnip",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219257&authkey=%21AOtb1ajdOg90Pr8&width=118&height=117",
+    "name": "Coupe Navet",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupTurnip1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218990&authkey=%21AGOSpnKLnI1WKE8&width=383&height=262",
+        "name": "Escapade new-yorkaise"
+      },
+      {
+        "game": "SNES",
+        "id": "cupTurnip2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218991&authkey=%21AKGlAFC5lxYsjvs&width=382&height=261",
+        "name": "Circuit Mario 3"
+      },
+      {
+        "game": "N64",
+        "id": "cupTurnip3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218992&authkey=%21APKEYxC4zjy3W7Q&width=382&height=263",
+        "name": "Désert Kalimari"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupTurnip4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218994&authkey=%21ALpp2sJ7bvDsuh4&width=382&height=262",
+        "name": "Flipper Waluigi"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupPropeller",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219259&authkey=%21ACY44i4--9swr-g&width=117&height=117",
+    "name": "Coupe Hélico",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupPropeller1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218993&authkey=%21AA2EPQYxl1lO3x8&width=382&height=261",
+        "name": "Sprint à Sydney"
+      },
+      {
+        "game": "GBA",
+        "id": "cupPropeller2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218995&authkey=%21APdgWWuyYGJSTZk&width=383&height=262",
+        "name": "Pays Neigeux"
+      },
+      {
+        "game": "Wii",
+        "id": "cupPropeller3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218997&authkey=%21ADm-FT5DAFZ1B8U&width=383&height=262",
+        "name": "Gorge Champignon"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupPropeller4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218996&authkey=%21AD9K4XA0n50fDI0&width=382&height=261",
+        "name": "Cité sorbet"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupRock",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219260&authkey=%21ALRRGjV-xqi4qso&width=118&height=118",
+    "name": "Coupe",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupRock1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219000&authkey=%21AMk9nFljCW7rPEs&width=382&height=264",
+        "name": "Détour à Londres"
+      },
+      {
+        "game": "GBA",
+        "id": "cupRock2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218998&authkey=%21ANxq56Aee9dNVOY&width=381&height=262",
+        "name": "Lac Boo"
+      },
+      {
+        "game": "3DS",
+        "id": "cupRock3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%218999&authkey=%21AN8SaNPpkawYaHk&width=381&height=260",
+        "name": "Mont Éboulis"
+      },
+      {
+        "game": "Wii",
+        "id": "cupRock4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219002&authkey=%21APOfNOND4AaxJ4s&width=382&height=261",
+        "name": "Bois Vermeil"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupMoon",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219261&authkey=%21AKcLeNNf2LwDoMI&width=118&height=118",
+    "name": "Coupe Lune",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupMoon1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219001&authkey=%21ABvBT7gEgw3icTc&width=383&height=263",
+        "name": "Balade berlinoise"
+      },
+      {
+        "game": "DS",
+        "id": "cupMoon2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219003&authkey=%21ACl7vzO0IQYL9-g&width=383&height=261",
+        "name": "Jardin Peach"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupMoon3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219004&authkey=%21ABEb9cT8IizQ96Q&width=383&height=262",
+        "name": "Mont festif"
+      },
+      {
+        "game": "3DS",
+        "id": "cupMoon4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219005&authkey=%21AIAjs2fvDgIIwkE&width=381&height=263",
+        "name": "Route Arc-en-ciel"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupFruit",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219262&authkey=%21AFQ4GTUyaHIjrqk&width=118&height=118",
+    "name": "Coupe Fruit",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupFruit1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219006&authkey=%21AIH2oMgN4enJlSE&width=382&height=262",
+        "name": "Virée à Amsterdam"
+      },
+      {
+        "game": "GBA",
+        "id": "cupFruit2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219007&authkey=%21AAvJtl079rX2zPU&width=383&height=262",
+        "name": "Riverside Parc"
+      },
+      {
+        "game": "Wii",
+        "id": "cupFruit3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219009&authkey=%21AA9U_KUeMFJiYYE&width=383&height=262",
+        "name": "Pic DK"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupFruit4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219008&authkey=%21AJGSTKfrsgXe6ZU&width=381&height=263",
+        "name": "Île de Yoshi"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupBoomerang",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219241&authkey=%21AMinZH8yJIL2XYY&width=118&height=118",
+    "name": "Coupe Boomerang",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupBoomerang1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219010&authkey=%21ALyjHNcdG6hG5w0&width=380&height=260",
+        "name": "Bousculade à Bangkok"
+      },
+      {
+        "game": "DS",
+        "id": "cupBoomerang2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219011&authkey=%21AIVhvdTX9nimCbM&width=380&height=261",
+        "name": "Circuit Mario"
+      },
+      {
+        "game": "NGC",
+        "id": "cupBoomerang3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219012&authkey=%21AIGPxCh_V5RunrA&width=380&height=261",
+        "name": "Stade Waluigi"
+      },
+      {
+        "game": "Tour",
+        "id": "cupBoomerang4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219015&authkey=%21AC476b-iF9PrbOo&width=383&height=262",
+        "name": "Poursuite à Singapour"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupPlume",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219240&authkey=%21AB3cAUdRnigxM8Q&width=118&height=118",
+    "name": "Coupe",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupPlume1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219013&authkey=%21AMbOOrFcridnoUM&width=382&height=261",
+        "name": "Athènes antique"
+      },
+      {
+        "game": "NGC",
+        "id": "cupPlume2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219014&authkey=%21AIh_081nO45Wl54&width=384&height=261",
+        "name": "Paquebot Daisy"
+      },
+      {
+        "game": "Wii",
+        "id": "cupPlume3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219017&authkey=%21AKs9yyc81lZF1HE&width=383&height=260",
+        "name": "Route Clair de Lune"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupPlume4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219016&authkey=%21AHz5RcrXIrkeLXs&width=382&height=261",
+        "name": "Course à la propreté"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupCherry",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219239&authkey=%21AEurnx2W7QaOvEg&width=118&height=118",
+    "name": "Coupe Cerise",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupCherry1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219018&authkey=%21ACH-0Vq347WXsdM&width=382&height=263",
+        "name": "Road-trip à Los Angeles"
+      },
+      {
+        "game": "GBA",
+        "id": "cupCherry2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219019&authkey=%21APProfwPc6kHvW0&width=381&height=262",
+        "name": "Pays Crépuscule"
+      },
+      {
+        "game": "Wii",
+        "id": "cupCherry3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219020&authkey=%21AHwqbOsWH0zob3U&width=382&height=262",
+        "name": "Cap Koopa"
+      },
+      {
+        "game": "Tour",
+        "id": "cupCherry4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219021&authkey=%21ANBQd_Y28GlrtSs&width=381&height=260",
+        "name": "Virages à Vancouver"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupAcorn",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219242&authkey=%21AFq3EsW5Hh6IA5g&width=118&height=118",
+    "name": "Coupe Gland",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupAcorn1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219023&authkey=%21ADfl-hWldq7Gg9o&width=402&height=273",
+        "name": "Roma romantica"
+      },
+      {
+        "game": "NGC",
+        "id": "cupAcorn2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219022&authkey=%21AKkCY2GzPFqwsAU&width=404&height=277",
+        "name": "Montagne DK"
+      },
+      {
+        "game": "Wii",
+        "id": "cupAcorn3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219024&authkey=%21AGOelK3DBZS8K0s&width=407&height=278",
+        "name": "Circuit Daisy"
+      },
+      {
+        "game": "Mario Kart 8",
+        "id": "cupAcorn4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219025&authkey=%21AOKBze8OFLQc_hk&width=405&height=274",
+        "name": "Ruines Plante Piranha"
+      }
+    ]
+  },
+  {
+    "dlc": true,
+    "id": "cupSpiky",
+    "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219243&authkey=%21ACd9FBNsvVqNfEU&width=118&height=118",
+    "name": "Coupe à Épines",
+    "courses": [
+      {
+        "game": "Tour",
+        "id": "cupSpiky1",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219026&authkey=%21ABxFUrJ0Y_tBYog&width=405&height=274",
+        "name": "Méandres madrilènes"
+      },
+      {
+        "game": "3DS",
+        "id": "cupSpiky2",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219027&authkey=%21AMD73z8lL1HLT8k&width=404&height=275",
+        "name": "Monde glacé d'Harmonie"
+      },
+      {
+        "game": "SNES",
+        "id": "cupSpiky3",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219029&authkey=%21AMvhZUDTTV-1QMU&width=407&height=275",
+        "name": "Château de Bowser 3"
+      },
+      {
+        "game": "Wii",
+        "id": "cupSpiky4",
+        "image": "https://onedrive.live.com/embed?resid=A395B24EF0AA7577%219028&authkey=%21AMI-ek7frYJzBAk&width=404&height=274",
+        "name": "Route Arc-en-ciel"
+      }
+    ]
+  }
+]
